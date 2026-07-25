@@ -270,3 +270,5 @@ AGPLv3
 <div align="center">
 built for teams who need unified search
 </div>
+
+# PR Merge: 2026-07-25 22:19:38
